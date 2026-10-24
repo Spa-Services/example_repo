@@ -1,4 +1,4 @@
-Example services:
+## Example services:
 • massages
 • facials
 • manicures/pedicures
